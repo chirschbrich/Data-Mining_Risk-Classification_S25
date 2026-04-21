@@ -89,11 +89,11 @@ All three projects draw from the same three sources:
 ## How the Projects Connect
 
 ```
-Project 1: Raw Data → Cleaned Dataset + Visualizations
-                              ↓
-Project 2: Cleaned Dataset → Cluster Assignments (unsupervised patterns)
-                              ↓
-Project 3: Clusters + Features → Risk Score + Classification Model (deployable tool)
+Project 1: Raw Data -> Cleaned Dataset + Visualizations
+                              
+Project 2: Cleaned Dataset -> Cluster Assignments (unsupervised patterns)
+                              
+Project 3: Clusters + Features -> Risk Score + Classification Model (deployable tool)
 ```
 
 Each project answers a progressively more actionable question:
